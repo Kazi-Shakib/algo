@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "root";
+$username = "";
 $password = "";
-$dbname = "adm2018_published";
+$dbname = "";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
